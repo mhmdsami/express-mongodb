@@ -1,5 +1,5 @@
 {
-  "name": "express-mongo-tut",
+  "name": "express-mongodb-tut",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/sm-sami2/express-mongodb-tut.git",
